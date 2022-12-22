@@ -5,4 +5,4 @@ ToDate - the Date and Time shower developed using JavaScript, HTML and CSS
 <br />
 <img src="./images/pageview1.png" alt="pageview" />
 
-<img src="pageviewoutput.png" alt="pageviewoutput" />
+<img src="./images/pageviewoutput.png" alt="pageviewoutput" />
